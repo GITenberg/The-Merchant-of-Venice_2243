@@ -1,0 +1,36 @@
+_repo: The-Merchant-of-Venice_2243
+creator:
+  author:
+    agent_name: Shakespeare, William
+    aliases:
+    - Shakspere, William
+    - Shakspeare, William
+    birthdate: 1564
+    deathdate: 1616
+    gutenberg_agent_id: '65'
+    url: http://www.gutenberg.org/2009/agents/65
+    wikipedia: http://en.wikipedia.org/wiki/William_Shakespeare
+description: The Merchant of Venice is a play by William Shakespeare, believed to
+  have been written between 1596 and 1598. Although classified as a comedy in the
+  First Folio, and while it shares certain aspects with Shakespeare's other romantic
+  comedies, the play is perhaps more remembered for its dramatic scenes, and is best
+  known for the character of Shylock. The title character is the merchant Antonio,
+  not the Jewish moneylender Shylock, who is the play's most prominent and more famous
+  villain. Though Shylock is a tormented character, he is also a tormentor, so whether
+  he is to be viewed with disdain or.
+gutenberg_issued: '2000-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2243'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Comedies'
+- !lcsh 'Moneylenders -- Drama'
+- !lcsh 'Jews -- Italy -- Drama'
+- !lcc 'PR'
+- !lcsh 'Venice (Italy) -- Drama'
+title: The Merchant of Venice
+url: http://www.gutenberg.org/ebooks/2243
