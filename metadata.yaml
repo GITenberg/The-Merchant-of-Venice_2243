@@ -1,5 +1,8 @@
 _repo: The-Merchant-of-Venice_2243
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Shakespeare, William
@@ -19,6 +22,8 @@ description: The Merchant of Venice is a play by William Shakespeare, believed t
   not the Jewish moneylender Shylock, who is the play's most prominent and more famous
   villain. Though Shylock is a tormented character, he is also a tormentor, so whether
   he is to be viewed with disdain or.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2243#The-Merchant-of-Venice
 gutenberg_issued: '2000-07-01'
 gutenberg_type: Text
 identifiers:
